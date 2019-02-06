@@ -1,0 +1,14 @@
+{
+  "name": "studentreport",
+  "version": "1.0.0",
+  "description": "system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bunsin NANH",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.4"
+  }
+}
